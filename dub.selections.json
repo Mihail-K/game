@@ -1,0 +1,13 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"bindbc-freetype": {"path":"../bindbc-freetype"},
+		"bindbc-glfw": "0.10.0",
+		"bindbc-loader": "0.3.1",
+		"bindbc-opengl": "0.13.0",
+		"game_engine": {"path":"../game_engine"},
+		"gfm": "8.0.3",
+		"imagefmt": "2.0.3",
+		"intel-intrinsics": "1.2.5"
+	}
+}

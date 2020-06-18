@@ -1,0 +1,6 @@
+name "game"
+description "A minimal D application."
+authors "Mihail-K"
+copyright "Copyright © 2020, Mihail-K"
+license "proprietary"
+dependency "game_engine" path="../game_engine"
